@@ -1,0 +1,5 @@
+homepage: "https://www.wenavdata.com"
+documentation: "https://github.com/adeolaemmanuelmorren/gtm-segment-server-side/blob/main/README.md"
+versions:
+  - sha: 227e3d738a7655efeb3d13a2ceb5b4f1a80663a1
+    changeNotes: Initial release.
